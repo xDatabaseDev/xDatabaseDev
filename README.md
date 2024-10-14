@@ -61,9 +61,3 @@ Languages  :  Python, Golang, HTML/CSS
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xDatabaseDev&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 ---
-
-## 🌟 Fun Fact
-
-> "Chaque ligne de code est un pas vers l'avenir."
-
----
