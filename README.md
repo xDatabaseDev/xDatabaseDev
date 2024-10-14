@@ -1,7 +1,7 @@
 # 👋 Hey, I'm xDatabase!
 
 ```python
-print(f'Follow {xDatabase} on Github')
+print(f'Follow {xDatabaseDev} on Github')
 ```
 
 ## 🚀 About Me
@@ -33,16 +33,16 @@ Languages  :  Python, Golang, HTML/CSS
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xDatabase&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xDatabaseDev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDatabase&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDatabaseDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🔗 Get in Touch
 
 - Discord: [Join my server](https://dsc.gg/lomerta)
-- Follow me on [GitHub](https://github.com/xDatabase)
+- Follow me on [GitHub](https://github.com/xDatabaseDev)
 - Reach out via Discord: `.xdatabase`
 
 ---
@@ -58,7 +58,7 @@ Languages  :  Python, Golang, HTML/CSS
 
 ### 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xDatabase&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=xDatabaseDev&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)
 
 ---
 
