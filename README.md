@@ -6,8 +6,8 @@ print(f'Follow {xDatabase} on Github')
        OS  :  Ubuntu
    Python  :  python 3.9.13
 Languages  :  Python, Golang, HTML/CSS
-  Discord  :  dsc.gg/lomerta
-   Server  :  None
+  Discord  :  .xdatabase
+   Server  :  dsc.gg/lomerta
 ```
 
 ```json
