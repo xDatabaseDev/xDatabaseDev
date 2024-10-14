@@ -13,7 +13,7 @@ print(f'Follow {xDatabaseDev} on Github')
 }
 ```
 
-- 🌍 Passionné par les langages de programmation et l'open-source.
+- 🌍 Passionné par l'informatique et la programmation.
 - 🖥️ Membre actif de la communauté Discord.
 - 🛠️ Toujours à la recherche de nouveaux défis techniques !
 
