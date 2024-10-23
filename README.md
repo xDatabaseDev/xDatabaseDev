@@ -26,7 +26,7 @@ print(f'Follow {xDatabaseDev} on Github')
    Python  :  python 3.12.4
 Languages  :  Python, Golang, HTML/CSS
   Discord  :  .xdatabase
-   Server  :  dsc.gg/lomerta
+   Server  :  dsc.gg/Sxnergy
 ```
 
 ---
