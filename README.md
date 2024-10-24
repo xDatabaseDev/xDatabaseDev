@@ -41,7 +41,7 @@ Languages  :  Python, Golang, HTML/CSS
 
 ## 🔗 Get in Touch
 
-- Discord: [Join my server](https://dsc.gg/lomerta)
+- Discord: [Join my server](https://discord.com/invite/fXvSExMAd9)
 - Follow me on [GitHub](https://github.com/xDatabaseDev)
 - Reach out via Discord: `.xdatabase`
 
