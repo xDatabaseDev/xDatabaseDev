@@ -25,8 +25,8 @@ print(f'Follow {xDatabaseDev} on Github')
        OS  :  Ubuntu 22.04
    Python  :  python 3.12.4
 Languages  :  Python, Golang, HTML/CSS
-  Discord  :  .xdatabase
-   Server  :  dsc.gg/Sxnergy
+  Discord  :  n3tbreach
+   Server  :  discord.gg/sxnergy
 ```
 
 ---
