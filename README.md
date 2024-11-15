@@ -1,10 +1,10 @@
-# 👋 Hey, I'm xDatabase!
+# 👋 Salut, Je suis N3tBreach!
 
 ```python
-print(f'Follow {xDatabaseDev} on Github')
+print(f'Follow {N3tBreach} on Github')
 ```
 
-## 🚀 About Me
+## 🚀 À Propos De Moi 
 
 ```json
 {
@@ -33,13 +33,13 @@ Languages  :  Python, Golang, HTML/CSS
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xDatabaseDev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3tBreach&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xDatabaseDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3tBreach&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🔗 Get in Touch
+## 🔗 Me Connaître
 
 - Discord: [Join my server](https://discord.com/invite/fXvSExMAd9)
 - Follow me on [GitHub](https://github.com/xDatabaseDev)
