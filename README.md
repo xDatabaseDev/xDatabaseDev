@@ -41,8 +41,8 @@ Languages  :  Python, Golang, HTML/CSS
 
 ## 🔗 Me Connaître
 
-- Discord: [Join my server](https://discord.com/invite/fXvSExMAd9)
-- Follow me on [GitHub](https://github.com/xDatabaseDev)
+- Discord: [Join my server](https://discord.gg/sxnergy)
+- Follow me on [GitHub](https://github.com/N3tBreach)
 - Reach out via Discord: `.xdatabase`
 
 ---
