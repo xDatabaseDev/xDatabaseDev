@@ -41,8 +41,8 @@ Languages  :  Python, Golang, HTML/CSS
 
 ## 🔗 Me Connaître
 
-- Discord: [Join my server](https://discord.gg/sxnergy)
-- Follow me on [GitHub](https://github.com/N3tBreach)
-- Reach out via Discord: `.xdatabase`
+- Serveur: [Join my server](https://discord.gg/sxnergy)
+- Abonnes toi sur github: [GitHub](https://github.com/N3tBreach)
+- Mon discord: `n3tbreach`
 
 ---
